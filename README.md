@@ -90,11 +90,11 @@
 
 ##
 <div align="center">
-  <h2> 📫About Me</h2>
+  <h2> 📫Contact</h2>
   <br>
   <div>
-    <a href="mailto:wlgus1516@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp <!-- gmail -->
-    <a href="https://discordapp.com/users/hyun_e98"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <!-- discord -->
+    <a href="mailto:jjss4real@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp <!-- gmail -->
+    <a href="https://discordapp.com/users/235374670214332416"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <!-- discord -->
   </div>
   <br>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjub&layout=donut" />
