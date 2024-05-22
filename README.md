@@ -70,7 +70,7 @@
   <h2> 🌱Learning</h2>
     <div>
     <span>
-      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="vertical-align:middle"/>
+      <img src="https://img.shields.io/npm/v/npm.svg?logo=npm" style="vertical-align:middle"/>
       <span>컨테이너화된 애플리케이션 배포를 위해 학습 중입니다.</span>
     </span>
   </div>
