@@ -65,36 +65,12 @@
   </table>
 
 ##
-
-<div align="center">
-  <h2> 🌱Learning</h2>
-    <div>
-    <span>
-      <img src="https://img.shields.io/npm/v/npm.svg?logo=npm" style="vertical-align:middle"/>
-      <span>컨테이너화된 애플리케이션 배포를 위해 학습 중입니다.</span>
-    </span>
-  </div>
-  <div>
-    <span>
-      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="vertical-align:middle"/>
-      <span>CI/CD 파이프라인 구축을 위해 학습하고 있습니다.</span>
-    </span>
-  </div>
-  <div>
-    <span>
-      <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" style="vertical-align:middle"/>
-      <span>API 문서화 및 테스트를 효율적으로 하기 위해 배우고 있습니다.</span>
-    </span>
-  </div>
-</div>
-
-##
 <div align="center">
   <h2> 📫Contact</h2>
   <br>
   <div>
     <a href="mailto:jjss4real@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp <!-- gmail -->
-    <a href="https://discordapp.com/users/235374670214332416"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <!-- discord -->
+    <a href="https://discord.gg/7kwhGSZA"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <!-- discord -->
   </div>
   <br>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjub&layout=donut&hide=plsql" />
