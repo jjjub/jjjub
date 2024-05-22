@@ -97,7 +97,7 @@
     <a href="https://discordapp.com/users/235374670214332416"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> <!-- discord -->
   </div>
   <br>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjub&layout=donut" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjub&layout=donut&hide=plsql" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jjjub&show_icons=true&theme=default" />
 </div>
 
