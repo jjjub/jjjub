@@ -1,6 +1,6 @@
 <!-- Title 타이틀-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Welcome%20to%20my%20GitHub&desc=jjub's%20Git" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Welcome%20to%20my%20GitHub&desc=jjjub's%20Git" />
 </div>
 
 ##
