@@ -7,12 +7,6 @@
 
 <!-- Introduce 소개-->
 
-<h2 align="center">✨Introduce</h2>
-<div align="left">
-  <p>- </p>
-  <p>- </p>
-  <p>- </p>
-</div>
 
 ##
 
